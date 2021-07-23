@@ -21,3 +21,13 @@ h2 {
     color: #b58291;
     text-align: center;
 }
+
+h3 {
+    margin-top: 20%;
+    font-size: 15vmin;
+    text-align: center;
+    color: #b58291;
+    text-shadow: #652a3c 2px 2px 2px;
+    @media screen and (min-width: 768px):
+        margin-top: 12%;
+}
