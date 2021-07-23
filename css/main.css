@@ -23,11 +23,23 @@ h2 {
 }
 
 h3 {
-    margin-top: 20%;
-    font-size: 15vmin;
+    margin-top: 15%;
+    font-size: 12vmin;
     text-align: center;
     color: #b58291;
+    opacity: 60%;
     text-shadow: #652a3c 2px 2px 2px;
-    @media screen and (min-width: 768px):
-        margin-top: 12%;
 }
+
+@media screen and (min-width: 768px) {
+    h3 {
+        margin-top: 5%;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    h3 {
+        margin-top: 15%;
+    }
+}
+
