@@ -41,15 +41,15 @@ h3 {
 /*    }*/
 /*}*/
 
-@media screen and (min-width: 1280px) {
-    h3 {
-        margin-top: 15%;
-    }
-    body {
-        background: url("../images/tess+drew+cleveland.png") no-repeat center center fixed;
-        background-size: cover;
-    }
-}
+/*@media screen and (min-width: 1280px) {*/
+/*    h3 {*/
+/*        margin-top: 15%;*/
+/*    }*/
+/*    body {*/
+/*        background: url("../images/tess+drew+cleveland.png") no-repeat center center fixed;*/
+/*        background-size: cover;*/
+/*    }*/
+/*}*/
 
 @media only screen and (max-width: 959px) {
     body:before {
