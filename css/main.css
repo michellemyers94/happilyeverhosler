@@ -22,14 +22,14 @@ h1 {
     font-size: 8vmin;
     color: #652a3c;
     text-align: center;
-    text-shadow: #b58291 2px 2px 3px;
+    text-shadow: #b58291 2px 2px 2px;
 }
 
 h2 {
     margin-top: 2%;
     font-size: 6vmin;
     color: #652a3c;
-    /*text-align: center;*/
+    text-align: center;
     /*text-shadow: #652a3c 1px 1px 4px;*/
     background: rgba(255, 255, 255, .5);
 }
