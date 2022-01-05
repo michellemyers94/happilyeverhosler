@@ -71,12 +71,14 @@ h3 {
     }
 }
 
-iframe {
-    display: block;
-    margin: 0 auto;
-    width: 100vmin;
-    height: 30vmin;
-}
+/*iframe {*/
+/*    display: block;*/
+/*    margin: 0 auto;*/
+/*    width: 100vmin;*/
+/*    height: 30vmin;*/
+/*}*/
+
+
 /*@media only screen and (max-width: 830px) {*/
 /*    body:before {*/
 /*        content: "";*/
