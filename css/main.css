@@ -6,7 +6,7 @@ body {
 }
 body:before {
     content: "";
-    background-image: url('../images/tess+drew+cleveland-tablet.jpg');
+    background-image: url('/images/tess+drew+cleveland-tablet.jpg');
     background-size: cover;
     position: fixed;
     top: 0;
@@ -50,7 +50,7 @@ h3 {
 
     body:before {
         content: "";
-        background-image: url('../images/tess+drew+cleveland-tablet.jpg');
+        background-image: url('/images/tess+drew+cleveland-tablet.jpg');
         background-size: cover;
         position: fixed;
         top: 0;
